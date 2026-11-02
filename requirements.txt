@@ -1,0 +1,10 @@
+
+streamlit==1.66.1
+pandas
+numpy
+pymongo
+scikit-learn
+plotly
+joblib
+folium
+streamlit-folium
