@@ -12,7 +12,7 @@ st.title("🌍 Real-Time Air Pollution Monitoring")
 # 2. Load your dataset
 @st.cache_data
 def load_data():
-    df = pd.read_csv("C:\env\RTA Dataset.csv")  # Replace with your actual filename
+    df = pd.read_csv("RTA Dataset.csv")  # Replace with your actual filename
     return df
 
 try:
